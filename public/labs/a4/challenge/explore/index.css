@@ -1,0 +1,153 @@
+
+.card {
+    border-top: none !important;
+    border-bottom: none !important;
+    border-radius: 0px !important;
+  }
+  
+  .img-custom {
+    width: auto !important;
+    height: 40px !important;
+  }
+  
+  .has-search .form-control {
+    padding-left: 2.375rem;
+  }
+  
+  .has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #696969;
+  }
+  
+  .custom {
+    min-width: 78px !important;
+  }
+  
+  .btn.btn.more-btn {
+    width: 36px;
+    height: 36px;
+    padding: 5px 0px;
+    border-radius: 18px;
+    text-align: center;
+  }
+  
+  .btn.more-btn:hover {
+    background-color: lightblue;  
+  }
+  
+   .fa.fa-check-circle.fa-promoted {
+    color: orange !important;
+  }
+    
+  
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 10px;
+    color: white;
+  }
+  
+  
+  .nav-pills>li>a.active {
+    background-color: white !important;
+    color: black !important;
+    font-weight: bold !important;
+  }
+  
+  .fa.active {
+    background-color: white !important;
+    color: black !important;
+    font-weight: bold !important;
+  }
+  
+  .nav>li>a:hover {
+     background-color: lightgray !important;
+  }
+  
+  .nav-item:hover {
+    background-color: lightgray !important;
+  }
+  
+  .fa.active:hover {
+    background-color: lightgray !important;
+  }
+  
+  .fa.fa-fw {
+   color: transparent;
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+  }
+  
+  .fas.fa-fw {
+   color: transparent;
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+  }
+  
+  .bg-gray {
+    background-color: rgb(230, 232, 235) !important;
+    border: none !important;
+  }
+  
+  ::placeholder {
+    color: #696969 !important;
+    font-size: 15px;
+  }
+  
+  .nav-tabs .nav-item {
+    padding: 0px 20px;
+  }
+  
+  .nav-tabs>.nav-item>.nav-link {
+    color: #696969;
+    border: transparent;
+    padding: 10px 0;
+  }
+  
+  .nav-tabs>.nav-item>.nav-link.active {
+    border-bottom: 3px solid #0275d8; 
+    color: black;
+    font-weight: bold;
+  }
+  
+  .custom-search {
+    padding: 10px 20px; 
+  }
+  
+  .custom-card {
+    width: 100% !important;
+    border: transparent !important;
+    background-color: rgb(250, 251, 252) !important;
+  }
+  
+  .terms-card {
+    font-size: 13px !important;
+    border: none !important;
+  }
+  
+  .card:hover {
+    background-color: rgb(230, 232, 235);
+  }
+  
+  .follow-button {
+    background-color: black !important;
+    border: transparent !important;
+    font-size: 13px !important;
+    font-weight: bold !important;
+  }
+  
+  .fa.fa-check-circle {
+    color: #0275d8 !important;
+  }
+  
+  
+  
+  
+  
