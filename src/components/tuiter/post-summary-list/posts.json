@@ -1,0 +1,23 @@
+[
+  {
+    "topic": "SpaceX",
+    "userName": "SpaceX",
+    "time": "2h",
+    "description": "Tesla Cybertruck lands on Mars and picks up the curiosity rover on its 6' bed.",
+    "image": "/tuiter/assets/images/tesla-logo.jpg"
+  },
+  {
+    "topic": "SpaceX",
+    "userName": "SpaceX",
+    "time": "2h",
+    "description": "100s of SpaceX Starships land on Mars after a 6 month journey. 1000s of Martian colonists being building Mars Base 1.",
+    "image": "/tuiter/assets/images/spacex.jpg"
+  },
+  {
+    "topic": "Tesla",
+    "userName": "Energy",
+    "time": "4d",
+    "description": "Tesla FSD finally makes driving obsolete. After years of delay, Tesla Full Self Driving can drive you to work while you work, play, or sleep",
+    "image": "/tuiter/assets/images/tesla-logo.jpg"
+  }
+]

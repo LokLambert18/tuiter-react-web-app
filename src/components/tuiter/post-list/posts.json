@@ -1,0 +1,25 @@
+[
+  {
+    "avatar": "/tuiter/assets/images/spacex.jpg",
+    "handle_name": "SpaceX",
+    "user_name": "@SpaceX",
+    "time": "15h",
+    "sub_heading_prefix": "Dennis and Akko Tito are the first two crewmembers on Startship's second commercial spaceflight around the Moon ",
+    "sub_heading_link": "https://spacex.com/updates",
+    "image_url": "/tuiter/assets/images/dennis.jpeg",
+    "comment_count": "595",
+    "retweet_count": "1168",
+    "like_count": "11.1k"
+  },
+  {
+    "avatar": "/tuiter/assets/images/elon.png",
+    "handle_name": "Elon Musk",
+    "user_name": "@elonmusk",
+    "time": "16h",
+    "sub_heading_prefix": "We might need a different name, as this is basically just Starlink with roaming capacity, so you can take your terminal anywhere. ",
+    "image_url": "/tuiter/assets/images/tweet.png",
+    "comment_count": "5346",
+    "retweet_count": "1601",
+    "like_count": "19.2k"
+  }
+]

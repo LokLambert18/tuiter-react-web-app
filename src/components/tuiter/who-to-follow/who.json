@@ -1,0 +1,19 @@
+[
+    {
+        "userName": "Java",
+        "handle": "@Java",
+        "avatar": "/tuiter/assets/images/java.png"
+    },
+    {
+        "userName": "Tesla",
+        "handle": "@Tesla",
+        "avatar": "/tuiter/assets/images/tesla.png"
+    },
+    {
+        "userName": "SpaceX",
+        "handle": "@SpaceX",
+        "avatar": "/tuiter/assets/images/spacex.jpg"
+    }
+    
+    
+]
