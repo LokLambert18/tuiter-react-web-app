@@ -2,11 +2,11 @@ import React from "react";
 
 const PostSummaryItem = ({
                              post = {
-                                 topic:"SpaceX",
-                                 userName: 'Space',
+                                 topic: 'Web Development',
+                                 userName: 'ReactJS',
                                  time: '2h',
-                                 description: "Tesla Cubertruck lands on Mars and picks up the curiosity rover on its 6'bed",
-                                 image: '/tuiter/assets/images/tesla-logo.jpg'
+                                 description: 'React.js is a component based front end library that makes it very easy to build Single Page Applications or SPAs',
+                                 image: '/tuiter/assets/images/react.png'
                              }
                          }) => {
     return (<a href="#" className="list-group-item list-group-item-action">
@@ -19,6 +19,10 @@ const PostSummaryItem = ({
                     <div className="wd-font-bold d-inline-block pe-1">
                         {post.userName}
                     </div>
+                    <span className="fa-stack fa-1x wd-stack-correction wd-verified-override">
+                        <i className="fas fa-circle fa-stack-1x"/>
+                        <i className="fas fa-check fa-2xs fa-stack-1x fa-inverse color-black"/>
+                    </span>
                     <label className="wd-post-topic-new ps-1">- {post.time}</label>
                     <div className="wd-font-bold">
                         {post.description}
