@@ -10,6 +10,7 @@ import HomeScreen from "./components/tuiter/home-screen";
 import Tuiter from "./components/tuiter";
 import ProfileScreen from "./components/tuiter/profile-screen";
 import EditProfile from "./components/tuiter/profile-screen/edit-profile";
+import TuitsController from "./controllers/tuits/tuits-controller.js";
 
 function App() {
   return (
@@ -32,5 +33,7 @@ function App() {
           </div>
       </BrowserRouter>
   );
+
+
 }
 export default App;
