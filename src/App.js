@@ -2,6 +2,7 @@ import './vendors/bootstrap/css/bootstrap.min.css';
 import './vendors/bootstrap/bootstrap.min.css';
 import './vendors/fontawesome/css/all.min.css';
 import './App.css';
+import mongoose from "mongoose";
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import HelloWorld from "./components/hello-world";
 import Labs from "./components/labs";
@@ -11,6 +12,7 @@ import Tuiter from "./components/tuiter";
 import ProfileScreen from "./components/tuiter/profile-screen";
 import EditProfile from "./components/tuiter/profile-screen/edit-profile";
 import TuitsController from "./controllers/tuits/tuits-controller.js";
+
 
 function App() {
   return (
